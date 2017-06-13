@@ -16,9 +16,9 @@ import { AppComponent } from './app.component';
     HttpModule,
     MaterialModule,
     MdDatepickerModule,
-    FormsModule
+    FormsModule,
     ReactiveFormsModule,
-    BrowserAnimationsModule
+
   ],
   providers: [],
   bootstrap: [AppComponent]
